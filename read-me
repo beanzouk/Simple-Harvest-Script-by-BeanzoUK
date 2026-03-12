@@ -1,55 +1,46 @@
-Simple Harvesting Script
+--------------------------------------------------
+Simple Harvesting Script by BeanzoUK
+--------------------------------------------------
 
-A lightweight script that automates basic harvesting actions.
+Overview
+--------------------------------------------------
+A lightweight standalone script that automates
+basic harvesting actions.
 
-This script was created to simplify repetitive harvesting tasks by automatically performing the required actions in sequence.
+This script was created to simplify repetitive
+harvesting tasks by automatically performing the
+required actions in sequence.
 
+--------------------------------------------------
 Features
+--------------------------------------------------
+- Automates harvesting actions
+- Simple, lightweight and configurable.
+- Easy to run.
+- Minimal setup required.
 
-Automates harvesting actions
-
-Simple and lightweight
-
-Easy to run
-
-Minimal setup required
-
+--------------------------------------------------
 Installation
+--------------------------------------------------
+1. Download this repository as a ZIP
+2. Extract the ZIP file
+3. Place the script in your desired folder
 
-Download this repository as a ZIP
-
-Extract the ZIP file
-
-Place the script in your desired folder
-
-Usage
-
-Open the script file
-
-Run it using the appropriate program or interpreter
-
-The script will begin performing the harvesting actions automatically
-
-Example:
-
-Run the script and allow it to perform the harvesting process.
-
-Requirements
-
-Required software to run the script (for example: Python / Lua / etc.)
-
-Any dependencies the script needs
-
+--------------------------------------------------
 Notes
+--------------------------------------------------
+- Use responsibly
+- Make sure the script is configured correctly
+  before running
 
-Use responsibly.
-
-Make sure the script is configured correctly before running.
-
+--------------------------------------------------
 License
+--------------------------------------------------
+This project is released under the MIT License,
+meaning it is free to use, modify, and distribute.
 
-This project is released under the MIT License, meaning it is free to use, modify, and distribute.
-
-Author
-
-Created by [YourGitHubUsername]
+--------------------------------------------------
+Author: BeanzoUK
+--------------------------------------------------
+Created by BeanzoUK
+--------------------------------------------------
